@@ -1,1 +1,3 @@
-print("Hei Valentin !")
+
+user = input('Anna nimesi: ')
+print("Hei herra, " + user + "!")

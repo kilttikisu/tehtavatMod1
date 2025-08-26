@@ -1,0 +1,6 @@
+eka = float(input("kerro ensimmäinen luku: "))
+toka = float(input( "kerro toinen luku:"))
+kolmas = float(input("kerro kolmas luku:"))
+print("summa:" + str(eka + toka + kolmas))
+print("Tulo:" + str(eka * toka * kolmas))
+print ("keskiarvo on:" + str((eka + toka + kolmas)/3))

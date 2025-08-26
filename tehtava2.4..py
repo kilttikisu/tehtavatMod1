@@ -1,3 +1,4 @@
+# kolmen luvun laskin
 eka = float(input("kerro ensimmäinen luku: "))
 toka = float(input( "kerro toinen luku:"))
 kolmas = float(input("kerro kolmas luku:"))

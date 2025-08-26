@@ -1,3 +1,4 @@
+#random numerot
 import random
 print("Numerosi:")
 print( str(random.randint(0,9)))

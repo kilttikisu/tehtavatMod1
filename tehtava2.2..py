@@ -1,3 +1,4 @@
+# ympyrä pinta-ala laskin
 import math
 pi = math.pi
 

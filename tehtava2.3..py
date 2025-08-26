@@ -1,3 +1,4 @@
+#suorakulmio laskin
 import math
 kanta = float(input("kerro kanta pituus:"))
 korkeus = float(input("kerro korkeus pituus:"))

@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f51d873b-6486-4d6c-9fb3-e80ee4c58964" name="Changes" comment="testi" />
+    <list default="true" id="f51d873b-6486-4d6c-9fb3-e80ee4c58964" name="Changes" comment="tehtävä 1 palautus">
+      <change afterPath="$PROJECT_DIR$/tehtava2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tehtava2.2..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tehtava2.3..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matematik.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tehtava1.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +27,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "kilttikisu"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kilttikisu&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kilttikisu/tehtavatMod1.git",
-    "accountId": "b6ed92d0-b9b6-4373-8bda-67cdb6c9acfb"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kilttikisu/tehtavatMod1.git&quot;,
+    &quot;accountId&quot;: &quot;b6ed92d0-b9b6-4373-8bda-67cdb6c9acfb&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="31dGEeFHDQaBCLLuNMAiIslK8U0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,6 +52,9 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.main.executor": "Run",
     "Python.matematik.executor": "Run",
+    "Python.tehtava1.executor": "Run",
+    "Python.tehtava2.2..executor": "Run",
+    "Python.tehtava2.3..executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -71,7 +81,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1755846426134</updated>
-      <workItem from="1755846427209" duration="6572000" />
+      <workItem from="1755846427209" duration="7398000" />
+      <workItem from="1756202433917" duration="20000" />
+      <workItem from="1756226791876" duration="5558000" />
     </task>
     <task id="LOCAL−00001" summary="testi">
       <option name="closed" value="true" />
@@ -94,7 +106,21 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1755887605033</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="tehtävä 1 palautus">
+      <option name="closed" value="true" />
+      <created>1755887705269</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1755887705269</updated>
+    </task>
+    <task id="LOCAL−00005" summary="tehtävä 1 palautus">
+      <option name="closed" value="true" />
+      <created>1755887779894</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1755887779894</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,10 +128,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testi" />
-    <option name="LAST_COMMIT_MESSAGE" value="testi" />
+    <MESSAGE value="tehtävä 1 palautus" />
+    <option name="LAST_COMMIT_MESSAGE" value="tehtävä 1 palautus" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/tehtavatMod1$matematik.coverage" NAME="matematik Coverage Results" MODIFIED="1755887294756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava2_2_.coverage" NAME="tehtava2.2. Coverage Results" MODIFIED="1756229476749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tehtavatMod1$matematik.coverage" NAME="matematik Coverage Results" MODIFIED="1756226917073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava1.coverage" NAME="tehtava1 Coverage Results" MODIFIED="1756227532203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$main.coverage" NAME="main Coverage Results" MODIFIED="1755887643541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava2_3_.coverage" NAME="tehtava2.3. Coverage Results" MODIFIED="1756232378952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

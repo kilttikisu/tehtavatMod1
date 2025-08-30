@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f51d873b-6486-4d6c-9fb3-e80ee4c58964" name="Changes" comment="tehtävä 1/2 palautus">
-      <change afterPath="$PROJECT_DIR$/Tehtava3.2..py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tehtava 3.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tehtava3.3..py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f51d873b-6486-4d6c-9fb3-e80ee4c58964" name="Changes" comment="tehtävä 1/2 palautus" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +83,7 @@
       <workItem from="1755846427209" duration="7398000" />
       <workItem from="1756202433917" duration="20000" />
       <workItem from="1756226791876" duration="10186000" />
-      <workItem from="1756567893527" duration="6633000" />
+      <workItem from="1756567893527" duration="6974000" />
     </task>
     <task id="LOCAL−00001" summary="testi">
       <option name="closed" value="true" />
@@ -146,7 +141,21 @@
       <option name="presentableId" value="LOCAL−00008" />
       <updated>1756240508457</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL−00009" summary="tehtävä 1/2 palautus">
+      <option name="closed" value="true" />
+      <created>1756574745575</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1756574745575</updated>
+    </task>
+    <task id="LOCAL−00010" summary="tehtävä 1/2 palautus">
+      <option name="closed" value="true" />
+      <created>1756574860658</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1756574860658</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +164,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testi" />
     <MESSAGE value="tehtävä 1 palautus" />
+    <MESSAGE value="päivitys" />
     <MESSAGE value="tehtävä 1/2 palautus" />
     <option name="LAST_COMMIT_MESSAGE" value="tehtävä 1/2 palautus" />
   </component>
@@ -165,7 +175,7 @@
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava1.coverage" NAME="tehtava1 Coverage Results" MODIFIED="1756227532203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava2_4_.coverage" NAME="tehtava2.4. Coverage Results" MODIFIED="1756238393208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$Tehtava3_2_.coverage" NAME="Tehtava3.2. Coverage Results" MODIFIED="1756569121435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava3_3_.coverage" NAME="tehtava3.3. Coverage Results" MODIFIED="1756574520316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava3_3_.coverage" NAME="tehtava3.3. Coverage Results" MODIFIED="1756574721355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava_3_1.coverage" NAME="tehtava 3.1 Coverage Results" MODIFIED="1756568453480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$main.coverage" NAME="main Coverage Results" MODIFIED="1755887643541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava2_6_.coverage" NAME="tehtava2.6. Coverage Results" MODIFIED="1756240053873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

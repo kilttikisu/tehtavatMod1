@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f51d873b-6486-4d6c-9fb3-e80ee4c58964" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <list default="true" id="f51d873b-6486-4d6c-9fb3-e80ee4c58964" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/TehtavatMod1/5.2..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TehtavatMod1/tehtava 5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TehtavatMod1/tehtava 5.3..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TehtavatMod1/tehtava 5.4..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.5.2..executor": "Run",
     "Python.Tehtava3.2..executor": "Run",
     "Python.main.executor": "Run",
     "Python.matematik.executor": "Run",
@@ -50,6 +57,8 @@
     "Python.tehatvat4.1..executor": "Run",
     "Python.tehtava 3.1.executor": "Run",
     "Python.tehtava 4.6..executor": "Run",
+    "Python.tehtava 5.1.executor": "Run",
+    "Python.tehtava 5.4..executor": "Run",
     "Python.tehtava1.executor": "Run",
     "Python.tehtava2.1.executor": "Run",
     "Python.tehtava2.2..executor": "Run",
@@ -63,7 +72,7 @@
     "Python.tehtavat.4.2..executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging master",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -91,6 +100,8 @@
       <workItem from="1756202433917" duration="20000" />
       <workItem from="1756226791876" duration="10186000" />
       <workItem from="1756567893527" duration="19317000" />
+      <workItem from="1756707881904" duration="7000" />
+      <workItem from="1756808006953" duration="7652000" />
     </task>
     <task id="LOCAL−00001" summary="testi">
       <option name="closed" value="true" />
@@ -169,7 +180,14 @@
       <option name="presentableId" value="LOCAL−00011" />
       <updated>1756574920299</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL−00012" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1756672332344</created>
+      <option name="number" value="LOCAL−00012" />
+      <option name="presentableId" value="LOCAL−00012" />
+      <updated>1756672332344</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,10 +207,12 @@
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava1.coverage" NAME="tehtava1 Coverage Results" MODIFIED="1756227532203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$Tehtava3_2_.coverage" NAME="Tehtava3.2. Coverage Results" MODIFIED="1756569121435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava3_3_.coverage" NAME="tehtava3.3. Coverage Results" MODIFIED="1756574721355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tehtavatMod1$5_2_.coverage" NAME="5.2. Coverage Results" MODIFIED="1756813340051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TehtavatMod1" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$main.coverage" NAME="main Coverage Results" MODIFIED="1755887643541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehatavat_4_5_.coverage" NAME="tehatavat 4.5. Coverage Results" MODIFIED="1756671196502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava2_3_.coverage" NAME="tehtava2.3. Coverage Results" MODIFIED="1756240425423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava2_2_.coverage" NAME="tehtava2.2. Coverage Results" MODIFIED="1756229476749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava_5_4_.coverage" NAME="tehtava 5.4. Coverage Results" MODIFIED="1756809505794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TehtavatMod1" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$matematik.coverage" NAME="matematik Coverage Results" MODIFIED="1756226917073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehatvat4_1_.coverage" NAME="tehatvat4.1. Coverage Results" MODIFIED="1756664297766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehtavat_4_2_.coverage" NAME="tehtavat.4.2. Coverage Results" MODIFIED="1756666987119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -202,5 +222,6 @@
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava_3_1.coverage" NAME="tehtava 3.1 Coverage Results" MODIFIED="1756568453480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehtavat_4_4_.coverage" NAME="tehtavat 4.4. Coverage Results" MODIFIED="1756671073185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava2_6_.coverage" NAME="tehtava2.6. Coverage Results" MODIFIED="1756240053873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava_5_1.coverage" NAME="tehtava 5.1 Coverage Results" MODIFIED="1756810689497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TehtavatMod1" />
   </component>
 </project>

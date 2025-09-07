@@ -1,6 +1,6 @@
-# funktio esimerkkejä
+# funktiot(mod6) esimerkkejä
 
-#def = defy, eli määritä funktio
+#def = defy, eli määritä funktiot(mod6)
 
 #Funktio joka ei ota parametrejä, eikä palauta mitään.
 def say_hello():
@@ -34,7 +34,7 @@ def say_hello_v2(username, age):
 #voidaan myös määritellä paluuarvo eli return funktiolle, kirjottamalla mitä palautetaan
 # funktion ajon lopussa, returnin jälkeen.
 
-#yllämainittu funktio toimii myös näin siis:
+#yllämainittu funktiot(mod6) toimii myös näin siis:
 def say_hello_v2(username, age):
     return f"hello{username}!, age{age}"
 
@@ -43,7 +43,7 @@ print(say_hello_v2("vallu",5))
 #Funktion idea koodata joku toiminto jota käyttää useein,jotta ei tarviis koodata jokasta
 #toimintoa erikseen
 
-#Esim python sisäänkoodattu funktio sum() joka plussaa kaikki alkiot yhteen.
+#Esim python sisäänkoodattu funktiot(mod6) sum() joka plussaa kaikki alkiot yhteen.
 
 numbers = [1,2,3,4,5]
 print(sum(numbers))
@@ -82,7 +82,7 @@ def calculator():
     tulos_yhteenlasku = luku1 + luku2
     print(f"tulos on:" + str(tulos_yhteenlasku))
 
-#eli yllä oleva funktio niin pääsis käyttää vaa käskyllä: calculator()
+#eli yllä oleva funktiot(mod6) niin pääsis käyttää vaa käskyllä: calculator()
 
 #eli lyhenetty ja cleenimpi koodi kokonaan olis uudella funktiolla:
 

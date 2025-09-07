@@ -14,7 +14,6 @@ def nopanheitto():
 app_running = True
 while app_running:
     silmäluku = nopanheitto()
-    nopanheitto()
     if silmäluku == 6:
         app_running = False
 

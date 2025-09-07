@@ -6,18 +6,6 @@
 # listan alkioiden lajittelujärjestyksen voi kääntää antamalla sort-metodille argumentiksi
 # reverse=True.
 
-#luvut = []
-
-
-#while True:
-  #  command = int(input("kerro luku:"))
-  #  luvut.append(command)
-  #  if command == "":
-   #     break
-#luvut.sort(reverse=true)
-
-
-
 luvut = []
 
 syöte = input("Anna luku ( tyhjä lopettaa): ")

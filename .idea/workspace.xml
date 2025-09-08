@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f51d873b-6486-4d6c-9fb3-e80ee4c58964" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/Tehtävät/monikko,joukko ja sanakairja(mod7)/joukko+sanakirja.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tehtävät/monikko,joukko ja sanakairja(mod7)/monikko.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tehtävät/funktiot(mod6)/6.3.tehtava.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/funktiot(mod6)/6.2. tehtava.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tehtävät/funktiot(mod6)/6.2. tehtava.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,7 @@
     "Python.main.executor": "Run",
     "Python.matematik.executor": "Run",
     "Python.monikko,joukko ja sanakirja.executor": "Run",
+    "Python.python.executor": "Run",
     "Python.tehatavat 4.5..executor": "Run",
     "Python.tehatvat4.1..executor": "Run",
     "Python.tehtava 3.1.executor": "Run",
@@ -86,7 +87,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -121,7 +122,8 @@
       <workItem from="1756808006953" duration="8307000" />
       <workItem from="1756880523186" duration="6621000" />
       <workItem from="1757151613419" duration="14252000" />
-      <workItem from="1757312344374" duration="7732000" />
+      <workItem from="1757312344374" duration="8307000" />
+      <workItem from="1757333027268" duration="5504000" />
     </task>
     <task id="LOCAL−00001" summary="testi">
       <option name="closed" value="true" />
@@ -256,7 +258,14 @@
       <option name="presentableId" value="LOCAL−00019" />
       <updated>1757280834187</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL−00020" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1757321417286</created>
+      <option name="number" value="LOCAL−00020" />
+      <option name="presentableId" value="LOCAL−00020" />
+      <updated>1757321417288</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +281,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/tehtavatMod1$6_2__tehtava.coverage" NAME="6.2. tehtava Coverage Results" MODIFIED="1757312401005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tehtävät/funktiot(mod6)" />
+    <SUITE FILE_PATH="coverage/tehtavatMod1$6_2__tehtava.coverage" NAME="6.2. tehtava Coverage Results" MODIFIED="1757335882691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tehtävät/funktiot(mod6)" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$funk_1_.coverage" NAME="funk.1. Coverage Results" MODIFIED="1756887694263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TehtavatMod1/funktio" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava2_4_.coverage" NAME="tehtava2.4. Coverage Results" MODIFIED="1756238393208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$6_1_tehtava.coverage" NAME="6.1.tehtava Coverage Results" MODIFIED="1757265938568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TehtavatMod1/funktio" />
@@ -295,8 +304,9 @@
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava3_3_.coverage" NAME="tehtava3.3. Coverage Results" MODIFIED="1756574721355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehatavat_4_5_.coverage" NAME="tehatavat 4.5. Coverage Results" MODIFIED="1756671196502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava2_3_.coverage" NAME="tehtava2.3. Coverage Results" MODIFIED="1756240425423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/tehtavatMod1$joukko_sanakirja.coverage" NAME="joukko+sanakirja Coverage Results" MODIFIED="1757320795030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tehtävät/monikko,joukko ja sanakairja(mod7)" />
+    <SUITE FILE_PATH="coverage/tehtavatMod1$joukko_sanakirja.coverage" NAME="joukko+sanakirja Coverage Results" MODIFIED="1757321368782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tehtävät/monikko,joukko ja sanakairja(mod7)" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava2_2_.coverage" NAME="tehtava2.2. Coverage Results" MODIFIED="1756229476749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tehtavatMod1$python.coverage" NAME="python Coverage Results" MODIFIED="1757338033988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tehtävät/funktiot(mod6)" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava4_3_.coverage" NAME="tehtava4.3. Coverage Results" MODIFIED="1756670804170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava_3_1.coverage" NAME="tehtava 3.1 Coverage Results" MODIFIED="1756568453480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>

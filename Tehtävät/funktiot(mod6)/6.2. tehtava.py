@@ -2,18 +2,21 @@
 # nopan tahkojen yhteismäärän. Muokatun funktion avulla voit heitellä esimerkiksi 21-tahkoista roolipelinoppaa. Edellisestä tehtävästä poiketen nopan heittelyä jatketaan pääohjelmassa kunnes saadaan nopan maksimisilmäluku, joka kysytään käyttäjältä ohjelman suorituksen alussa.
 import random
 
-def nopanheitto():
-    tahkojen_lukumäärä = maksimiluku
-    luku = random.randint(0, int(tahkojen_lukumäärä))
-    print(f"tulos on : {luku}")
-    while int(luku) < int(tahkojen_lukumäärä):
-        True is True
-        if int(luku) == int(tahkojen_lukumäärä):
-            break
+maksimiluku = input(" kerro nopan suurin numeroarvo( käytä kokonaisia numeroita)")
+
+def nopanheitto_maksimilukuun(tahkojen_lukumäärä):
+    maksimiluku = tahkojen_lukumäärä
+    heitot = 0
+    nopanheitto = random.randit(1, int(tahkojen_lukumäärä))
+    nopanheitto = heitot + 1
+    print(f" heiton tulos {nopanheitto}")
+    while nopanheitto < tahkojen_lukumäärä:
+        print(nopanheitto)
+
+nopanheitto_maksimilukuun(tahkojen_lukumäärä)
+
 
 print("selvitä monta nopan heittoa kestää saada maksimiluku")
-app_running = True
-while app_running:
-    maksimiluku = input(" kerro nopan suurin numeroarvo( käytä kokonaisia numeroita)")
-    nopanheitto()
+
+
 print("kiitos pelaamisesta")

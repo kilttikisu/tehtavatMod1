@@ -85,5 +85,22 @@ yhteystiedot = {
 
 print(f"matin puhelinnumero on: {yhteystiedot["matti"]["puh"]}")
 
+print("-------------------------------")
+# uus sanakirja
+oppilaat2 = { #voi myös asettaa arvot peräkkäin tähän, mut selkeempi kuten alla
+    "matti": 25,
+    "ossi": 26,
+    "hermanni":50,
+    "karvanenjalmari": 34,
+}
+#listätään uusi oppilas
+# lisätään avaimen avulla, mikäli avain jo löytyy niin tämä päivittää tiedot
+oppilaat2["ulla"] = 45
+oppilaat2["aapeli"] = 66 # päivitettiin aapelin ikä sanakirjaan
+print(oppilaat2)
 
+# tällä toiminolla muokkaa jos arvo on ja luo uuden jos arvoa ei ole
 
+oppilaat2.update({"timo": 77, "Liisa": 33, "matti": 26})
+print(oppilaat2)
+#eli lisättiin kaks uutta oppilasta ja päivitettii matin ikä samalla.

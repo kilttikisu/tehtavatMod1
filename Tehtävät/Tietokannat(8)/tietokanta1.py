@@ -69,7 +69,7 @@ def add_country(code, name):
     cursor.execute(sql)
     print(cursor)
 
-#add_country('MYS', 'Myass')
+#add_country('FEN', 'Fenlund')
 #huom. jos saman maan ajaa sisää kaks kertaa niin saat error, koska maa jo lisätty.
 
 

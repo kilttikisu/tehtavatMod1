@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f51d873b-6486-4d6c-9fb3-e80ee4c58964" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/olio/assosiaatio/tehtävät1-3(hissit).py" beforeDir="false" afterPath="$PROJECT_DIR$/olio/assosiaatio/tehtävät1-3(hissit).py" afterDir="false" />
-    </list>
+    <list default="true" id="f51d873b-6486-4d6c-9fb3-e80ee4c58964" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,7 +139,7 @@
       <workItem from="1758278984369" duration="2441000" />
       <workItem from="1761502492727" duration="13608000" />
       <workItem from="1761726406111" duration="4284000" />
-      <workItem from="1761731186199" duration="19012000" />
+      <workItem from="1761731186199" duration="19433000" />
     </task>
     <task id="LOCAL−00001" summary="testi">
       <option name="closed" value="true" />
@@ -354,7 +351,14 @@
       <option name="presentableId" value="LOCAL−00030" />
       <updated>1761549726747</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL−00031" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1762120912181</created>
+      <option name="number" value="LOCAL−00031" />
+      <option name="presentableId" value="LOCAL−00031" />
+      <updated>1762120912181</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -400,7 +404,7 @@
     <SUITE FILE_PATH="coverage/tehtavatMod1$Joukko.coverage" NAME="Joukko Coverage Results" MODIFIED="1757318206691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tehtävät/monikko,joukko ja sanakairja(mod7)" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$5_2_.coverage" NAME="5.2. Coverage Results" MODIFIED="1757275972537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TehtavatMod1" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$main.coverage" NAME="main Coverage Results" MODIFIED="1755887643541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Ohjelmisto1_2_tehtävät$tehtävät1_3_hissit_.coverage" NAME="tehtävät1-3(hissit) Coverage Results" MODIFIED="1762120178689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/olio/assosiaatio" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto1_2_tehtävät$tehtävät1_3_hissit_.coverage" NAME="tehtävät1-3(hissit) Coverage Results" MODIFIED="1762120792859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/olio/assosiaatio" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$tehtava_5_4_.coverage" NAME="tehtava 5.4. Coverage Results" MODIFIED="1757276099603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TehtavatMod1" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$matematik.coverage" NAME="matematik Coverage Results" MODIFIED="1756226917073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavatMod1$7_2_tehtava.coverage" NAME="7.2.tehtava Coverage Results" MODIFIED="1757417535277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tehtävät/monikko,joukko ja sanakairja(mod7)" />

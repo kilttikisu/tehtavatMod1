@@ -37,6 +37,8 @@ class Hissi:
             print(f"suurin kerros on {self.ylin_kerros}")
         elif kerroksen_numero < self.alin_kerros:
             print(f"alin kerros on: {self.alin_kerros}")
+        elif kerroksen_numero == self.kerros_nyt:
+            print(f"hissi on kerroksessa {self.kerros_nyt}")
         elif kerroksen_numero > self.kerros_nyt:
             kerroksia_ylös = kerroksen_numero - self.kerros_nyt
             self.hissi_ylös(kerroksia_ylös)
@@ -56,10 +58,47 @@ class Talo:
             hissi = Hissi(k_alin,k_ylin)
             self.hissit.append(hissi)
 
-    def aja_hissiä(self,h_numero,t_kerros):
+   def aja_hissiä(self,h_numero,t_kerros):
+        self.h_numero = h_numero
+        self.t_kerros = t_kerros
+        if h_numero not in range(len(self.hissit)):
+            print(f"hissinumeroa: {h_numero} ei löydy, tarkista hissin numero")
+            return
+        valittu_hissi = self.hissit[h_numero - 1]
+        if t_kerros <= self.k_ylin and t_kerros >= self.k_alin:
+            print(f"hissi numero {h_numero} matkustaa.... ")
+            valittu_hissi.siirry_kerrokseen(t_kerros)
+        else:
+            print(f"kerrosta numerolla {t_kerros} ei löydy, tarkista kerros")
+
+   def palohälytys(self):
+       print(f"PALOHÄLYTYS, talossa on {len(self.hissit)} kpl hissejä, kaikki siirtyvät automaattisesti pohjakerrokseen")
+       for h in self.hissit:
+            h.siirry_kerrokseen(0)
 
 
 
-talo1 = Talo(2, 0, 5)
 
-print(talo1.hissit[0].kerros_nyt)
+
+
+
+
+
+talo1 = Talo(6, 0, 5)
+
+#talo1.tulosta_hissit()
+
+
+#print(talo1.hissit)
+
+talo1.aja_hissiä(2, 4)
+talo1.aja_hissiä(5, 5)
+
+
+talo1.palohälytys()
+
+#talo1.hissit[0].siirry_kerrokseen(4)
+
+#print(talo1.hissit[0].kerros_nyt)
+#def tulosta_hissit (self):
+       # print(self.h_kpl)

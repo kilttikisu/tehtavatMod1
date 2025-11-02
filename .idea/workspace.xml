@@ -139,7 +139,7 @@
       <workItem from="1758278984369" duration="2441000" />
       <workItem from="1761502492727" duration="13608000" />
       <workItem from="1761726406111" duration="4284000" />
-      <workItem from="1761731186199" duration="19433000" />
+      <workItem from="1761731186199" duration="20133000" />
     </task>
     <task id="LOCAL−00001" summary="testi">
       <option name="closed" value="true" />
@@ -358,7 +358,21 @@
       <option name="presentableId" value="LOCAL−00031" />
       <updated>1762120912181</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL−00032" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1762121668804</created>
+      <option name="number" value="LOCAL−00032" />
+      <option name="presentableId" value="LOCAL−00032" />
+      <updated>1762121668804</updated>
+    </task>
+    <task id="LOCAL−00033" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1762121735199</created>
+      <option name="number" value="LOCAL−00033" />
+      <option name="presentableId" value="LOCAL−00033" />
+      <updated>1762121735199</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

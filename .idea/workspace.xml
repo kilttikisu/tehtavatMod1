@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f51d873b-6486-4d6c-9fb3-e80ee4c58964" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/olio/mod_9/autot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/olio/assosiaatio/tehtävät1-3(hissit).py" beforeDir="false" afterPath="$PROJECT_DIR$/olio/assosiaatio_mod_10/tehtävät1-3(hissit).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +143,7 @@
       <workItem from="1761502492727" duration="13608000" />
       <workItem from="1761726406111" duration="4284000" />
       <workItem from="1761731186199" duration="20199000" />
-      <workItem from="1762173913083" duration="414000" />
+      <workItem from="1762173913083" duration="3114000" />
     </task>
     <task id="LOCAL−00001" summary="testi">
       <option name="closed" value="true" />
@@ -383,7 +383,14 @@
       <option name="presentableId" value="LOCAL−00034" />
       <updated>1762121794010</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL−00035" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1762174604394</created>
+      <option name="number" value="LOCAL−00035" />
+      <option name="presentableId" value="LOCAL−00035" />
+      <updated>1762174604394</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

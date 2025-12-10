@@ -5,9 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f51d873b-6486-4d6c-9fb3-e80ee4c58964" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/olio/mod_9/Auto_tehtävät_1-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/olio/mod_9/autot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/IF lauseke(mod3)/Tehtava3.2..py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/IF lauseke(mod3)/Tehtava3.2..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/IF lauseke(mod3)/tehtava 3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/IF lauseke(mod3)/tehtava 3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/IF lauseke(mod3)/tehtava3.3..py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/IF lauseke(mod3)/tehtava3.3..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/IF lauseke(mod3)/tehtava3.4..py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/IF lauseke(mod3)/tehtava3.4..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/Listat(mod5)/5.2..py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/Listat(mod5)/5.2..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/Listat(mod5)/tehtava 5.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/Listat(mod5)/tehtava 5.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/Listat(mod5)/tehtava 5.3..py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/Listat(mod5)/tehtava 5.3..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/Listat(mod5)/tehtava 5.4..py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/Listat(mod5)/tehtava 5.4..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/Tietokannat(8)/tehatava8.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/Tietokannat(8)/tehatava8.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/Tietokannat(8)/tehtava8.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/Tietokannat(8)/tehtava8.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/Tietokannat(8)/tehtava8.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/Tietokannat(8)/tehtava8.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/Tietokannat(8)/tietokanta.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/Tietokannat(8)/tietokanta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/funktiot(mod6)/6.1.tehtava.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/funktiot(mod6)/6.1.tehtava.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/funktiot(mod6)/6.2. tehtava.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/funktiot(mod6)/6.2. tehtava.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/funktiot(mod6)/6.3.tehtava.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/funktiot(mod6)/6.3.tehtava.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/funktiot(mod6)/6.4. tehtava.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/funktiot(mod6)/6.4. tehtava.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/funktiot(mod6)/6.5.tehtava.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/funktiot(mod6)/6.5.tehtava.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/funktiot(mod6)/6.6.tehtava.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/funktiot(mod6)/6.6.tehtava.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/funktiot(mod6)/funk.1..py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/funktiot(mod6)/funk.1..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/monikko,joukko ja sanakairja(mod7)/7.1.tehtava.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/monikko,joukko ja sanakairja(mod7)/7.1.tehtava.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/monikko,joukko ja sanakairja(mod7)/7.2.tehtava.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/monikko,joukko ja sanakairja(mod7)/7.2.tehtava.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/monikko,joukko ja sanakairja(mod7)/7.3.tehtava.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/monikko,joukko ja sanakairja(mod7)/7.3.tehtava.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/monikko,joukko ja sanakairja(mod7)/joukko+sanakirja.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/monikko,joukko ja sanakairja(mod7)/joukko+sanakirja.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/monikko,joukko ja sanakairja(mod7)/monikko.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/monikko,joukko ja sanakairja(mod7)/monikko.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/muuttujat (mod2)/tehtava2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/muuttujat (mod2)/tehtava2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/muuttujat (mod2)/tehtava2.2..py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/muuttujat (mod2)/tehtava2.2..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/muuttujat (mod2)/tehtava2.3..py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/muuttujat (mod2)/tehtava2.3..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/muuttujat (mod2)/tehtava2.4..py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/muuttujat (mod2)/tehtava2.4..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/muuttujat (mod2)/tehtava2.5..py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/muuttujat (mod2)/tehtava2.5..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tehtävät/muuttujat (mod2)/tehtava2.6..py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/muuttujat (mod2)/tehtava2.6..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/While(mod4)/tehatavat 4.5..py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/While(mod4)/tehatavat 4.5..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/While(mod4)/tehatvat4.1..py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/While(mod4)/tehatvat4.1..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/While(mod4)/tehtava 4.6..py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/While(mod4)/tehtava 4.6..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/While(mod4)/tehtava4.3..py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/While(mod4)/tehtava4.3..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/While(mod4)/tehtavat 4.4..py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/While(mod4)/tehtavat 4.4..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/While(mod4)/tehtavat.4.2..py" beforeDir="false" afterPath="$PROJECT_DIR$/ohjelmisto_1_Tehtävät/While(mod4)/tehtavat.4.2..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/olio/assosiaatio_mod_10/tehtävät1-3(hissit).py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto_2_tehtävät/assosiaatio_mod_10/tehtävät1-3(hissit).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/olio/mod_9/Auto_tehtävät_1-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto_2_tehtävät/mod_9/Auto_tehtävät_1-2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +68,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/kilttikisu/tehtavatMod1.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/kilttikisu/tehtavat-Ohjelmisto-1-ja-2.git&quot;,
     &quot;accountId&quot;: &quot;b6ed92d0-b9b6-4373-8bda-67cdb6c9acfb&quot;
   }
 }</component>
@@ -47,64 +83,65 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.5.2..executor": "Run",
-    "Python.6.1.tehtava.executor": "Run",
-    "Python.6.2. tehtava.executor": "Run",
-    "Python.6.3.tehtava.executor": "Run",
-    "Python.6.4. tehtava.executor": "Run",
-    "Python.6.5.tehtava.executor": "Run",
-    "Python.7.2.tehtava.executor": "Run",
-    "Python.7.3.tehtava.executor": "Run",
-    "Python.Joukko.executor": "Run",
-    "Python.Tehtava3.2..executor": "Run",
-    "Python.autot.executor": "Run",
-    "Python.funk.1..executor": "Run",
-    "Python.joukko+sanakirja.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.matematik.executor": "Run",
-    "Python.monikko,joukko ja sanakirja.executor": "Run",
-    "Python.monikko_tehtava.executor": "Run",
-    "Python.python.executor": "Run",
-    "Python.tehatava8.2.executor": "Run",
-    "Python.tehatavat 4.5..executor": "Run",
-    "Python.tehatvat4.1..executor": "Run",
-    "Python.tehtava 3.1.executor": "Run",
-    "Python.tehtava 4.6..executor": "Run",
-    "Python.tehtava 5.1.executor": "Run",
-    "Python.tehtava 5.4..executor": "Run",
-    "Python.tehtava1.executor": "Run",
-    "Python.tehtava2.1.executor": "Run",
-    "Python.tehtava2.2..executor": "Run",
-    "Python.tehtava2.3..executor": "Run",
-    "Python.tehtava2.4..executor": "Run",
-    "Python.tehtava2.6..executor": "Run",
-    "Python.tehtava3.3..executor": "Run",
-    "Python.tehtava3.4..executor": "Run",
-    "Python.tehtava4.3..executor": "Run",
-    "Python.tehtava8.1.executor": "Run",
-    "Python.tehtava8.3.executor": "Run",
-    "Python.tehtavat 4.4..executor": "Run",
-    "Python.tehtavat.4.2..executor": "Run",
-    "Python.tehtävät1-3(hissit).executor": "Run",
-    "Python.tietokanta1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.5.2..executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.1.tehtava.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.2. tehtava.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.3.tehtava.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.4. tehtava.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.5.tehtava.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.2.tehtava.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.3.tehtava.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Joukko.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tehtava3.2..executor&quot;: &quot;Run&quot;,
+    &quot;Python.autot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funk.1..executor&quot;: &quot;Run&quot;,
+    &quot;Python.joukko+sanakirja.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matematik.executor&quot;: &quot;Run&quot;,
+    &quot;Python.monikko,joukko ja sanakirja.executor&quot;: &quot;Run&quot;,
+    &quot;Python.monikko_tehtava.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehatava8.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehatavat 4.5..executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehatvat4.1..executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 3.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 4.6..executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 5.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 5.4..executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava2.2..executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava2.3..executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava2.4..executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava2.6..executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava3.3..executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava3.4..executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava4.3..executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava8.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava8.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtavat 4.4..executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtavat.4.2..executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtävät1-3(hissit).executor&quot;: &quot;Run&quot;,
+    &quot;Python.tietokanta1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\isoli\PycharmProjects\tehtavat-Ohjelmisto-1-ja-2\Tehtävät" />
       <recent name="C:\Users\isoli\PycharmProjects\tehtavatMod1\TehtavatMod1\muuttujat (mod2)" />
       <recent name="C:\Users\isoli\PycharmProjects\tehtavatMod1\TehtavatMod1\IF lauseke" />
       <recent name="C:\Users\isoli\PycharmProjects\tehtavatMod1\While" />
@@ -114,8 +151,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
-        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-PY-252.28238.29" />
+        <option value="bundled-python-sdk-a101402ee41c-968fe969f28a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.28238.29" />
       </set>
     </attachedChunks>
   </component>
@@ -148,6 +185,8 @@
       <workItem from="1762173913083" duration="3425000" />
       <workItem from="1763451922348" duration="24000" />
       <workItem from="1765388208009" duration="2988000" />
+      <workItem from="1765392753466" duration="1092000" />
+      <workItem from="1765402060290" duration="1666000" />
     </task>
     <task id="LOCAL−00001" summary="testi">
       <option name="closed" value="true" />
@@ -407,6 +446,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testi" />
     <MESSAGE value="tehtävä 1 palautus" />
@@ -420,17 +470,17 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Tehtävät/funktiot(mod6)/6.5.tehtava.py</url>
+          <url>file://$PROJECT_DIR$/ohjelmisto_1_Tehtävät/funktiot(mod6)/6.5.tehtava.py</url>
           <line>7</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Tehtävät/Tietokannat(8)/tietokanta.py</url>
+          <url>file://$PROJECT_DIR$/ohjelmisto_1_Tehtävät/Tietokannat(8)/tietokanta.py</url>
           <line>15</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Tehtävät/Tietokannat(8)/tietokanta.py</url>
+          <url>file://$PROJECT_DIR$/ohjelmisto_1_Tehtävät/Tietokannat(8)/tietokanta.py</url>
           <line>71</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>

@@ -94,7 +94,6 @@ talo1 = Talo(6, 0, 5)
 talo1.aja_hissiä(2, 4)
 talo1.aja_hissiä(5, 5)
 
-
 talo1.palohälytys()
 
 #talo1.hissit[0].siirry_kerrokseen(4)
